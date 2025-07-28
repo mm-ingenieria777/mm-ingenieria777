@@ -18,7 +18,7 @@
   </a> 
   &emsp;
   <a> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+     <img alt="Matlab" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=matlab&logoColor=black">
    </a>
   &emsp;
    <a>
