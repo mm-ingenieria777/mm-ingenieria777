@@ -101,6 +101,6 @@
 <br>
 
 -----
-Credits: [Josue Rojas Vega](https://github.com/JOSUERV99)
+Credits: [Marco Maytan](https://github.com/JOSUERV99)
 
-Last Edited on: 23/09/2021
+Last Edited on: 28/07/2025
