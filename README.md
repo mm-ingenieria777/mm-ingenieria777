@@ -13,13 +13,16 @@
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
   </a> 
   &emsp;
-  <a> 
-    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
-  </a> 
+<a href="https://www.hp.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/HP_logo_2012.svg" alt="HP" width="20" style="vertical-align: middle; margin-right: 4px;">
+  <img src="https://img.shields.io/badge/HP%20Prime-0096D6?style=flat&logoColor=white" alt="HP Prime badge">
+</a>
+
   &emsp;
-  <a> 
-     <img alt="Matlab" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=matlab&logoColor=black">
-   </a>
+  <a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="20" style="vertical-align: middle; margin-right: 4px;">
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logoColor=white" alt="MATLAB badge">
+</a>
   &emsp;
    <a>
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
