@@ -6,7 +6,7 @@
 <span align="center">
   <span>
     <h4 align="center">"<em>Si lo puedes imaginar, lo puedes programar</em>"
-      <span align="center">Alejandro Taboada Sanchez</span>
+      <span align="center">MARCO MAYTAN HUARACA</span>
     </h4>
 </span>
 
