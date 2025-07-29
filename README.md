@@ -8,14 +8,12 @@
 ## My tech stack
 
 <p align="left"> 
-
-  <a> 
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?logo=Typescript&logoColor=black">
-  </a> 
-  &emsp;
-<a href="https://www.hp.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/HP_logo_2012.svg" alt="HP" width="20" style="vertical-align: middle; margin-right: 4px;">
+<a>
   <img src="https://img.shields.io/badge/HP%20Prime-0096D6?style=flat&logoColor=white" alt="HP Prime badge">
+</a>
+  &emsp;
+<a>
+  <img alt="Mathcad Prime" src="https://img.shields.io/badge/Mathcad%20Prime-006937?style=flat&logoColor=white"/>
 </a>
 
   &emsp;
@@ -28,54 +26,57 @@
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
   &emsp;
-  <a>
-    <img alt="Serveless" src="https://img.shields.io/badge/-Serverless-orange?logo=serverless&logoColor=white"/>
-  </a>
+<a>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white"/>
+</a>
+
+  &emsp;
+<a>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/>
+</a>
+
+
   &emsp;
   <a>
     <img alt="Git" src="https://img.shields.io/badge/-git-red?logo=git&logoColor=white"/>
   </a>
-  &emsp; 
+ &emsp;
   <a> 
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/-ElasticSearch-brightgreen?logo=elasticsearch&logoColor=white">
-  </a> 
-  &emsp;
-  <a> 
-    <img alt="Django" src="https://img.shields.io/badge/-Django-green?logo=django&Color=white">
-  </a> 
+    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
+  </a>
   &emsp;
   <a> 
      <img alt="mongodb" src="https://img.shields.io/badge/-mongoDb-green?logo=mongodb&logoColor=white">
    </a>
   &emsp;
-  <a> 
-    <img alt="github" src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white">
-  </a>
+    
+<a>
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"/>
+</a>
+
   &emsp;
-  <a>
-    <img alt="redis" src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white"/>
-  </a>
-  &emsp;
-  <a>
-    <img alt="NGINX" src="https://img.shields.io/badge/-NGINX-yellow?logo=nginx&logoColor=white"/>
-  </a>
 </p>
 
 
 ## Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/viral-bhadeshiya/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/marco-alexsandio-maytan-huaraca-99b760286/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/viralbhadeshiya/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/viralrbhadeshiya" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="Viral Bhadeshiya" height="30" width="40" /></a>
-  <a href="https://www.upwork.com/freelancers/~01b76da506f37dac94" target="blank"><img align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg"
-      alt="Viral Bhadeshiya" height="30" width="auto" /></a>
+  <a href="https://www.facebook.com/aki.maytan" target="_blank"><img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+       alt="Facebook"
+       height="30"
+       width="40" /></a>
+<a href="https://www.tiktok.com/@mm_ingenieros?is_from_webapp=1&sender_device=pc" target="_blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tiktok.svg"
+       alt="TikTok"
+       height="30"
+       width="40" />
+</a>
+
+
 </p>
 
 -----
